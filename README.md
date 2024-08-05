@@ -56,8 +56,8 @@ Docker é utilizado para orquestrar os containers do backend e do frontend.
 
 1. **Clone o Repositório**:
    ```
-   git clone https://github.com/vitoriarntrindade/tistto-challenge.git
-   cd tistto-challenge
+   git clone https://github.com/vitoriarntrindade/todo-list.git
+   cd todo-list
 
   
 2. **Crie um arquivo .env na raiz do seu repositório com placeholders para todas as variáveis de ambiente necessárias. Certifique-se de ter PostgreSQL instalado e configurado e uma SECRET_KEY do Django:**
